@@ -1,0 +1,56 @@
+五月 16, 2013 12:39:22 上午 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+五月 16, 2013 12:39:22 上午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+五月 16, 2013 12:39:22 上午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+五月 16, 2013 12:39:22 上午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 778 ms
+五月 16, 2013 12:39:22 上午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+五月 16, 2013 12:39:22 上午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/@VERSION@
+五月 16, 2013 12:39:22 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/astute/projs/Tomcat7/launch/webapps/host-manager
+五月 16, 2013 12:39:23 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/astute/projs/Tomcat7/launch/webapps/manager
+五月 16, 2013 12:39:23 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/astute/projs/Tomcat7/launch/webapps/ROOT
+五月 16, 2013 12:39:23 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/astute/projs/Tomcat7/launch/webapps/examples
+五月 16, 2013 12:39:23 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/astute/projs/Tomcat7/launch/webapps/docs
+五月 16, 2013 12:39:23 上午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+五月 16, 2013 12:39:23 上午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+五月 16, 2013 12:39:23 上午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 967 ms
+五月 16, 2013 12:44:17 上午 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+五月 16, 2013 12:44:17 上午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+五月 16, 2013 12:44:17 上午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+五月 16, 2013 12:44:17 上午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 679 ms
+五月 16, 2013 12:44:17 上午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+五月 16, 2013 12:44:17 上午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/@VERSION@
+五月 16, 2013 12:44:17 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/astute/projs/Tomcat7.0.40/launch/webapps/host-manager
+五月 16, 2013 12:44:17 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/astute/projs/Tomcat7.0.40/launch/webapps/manager
+五月 16, 2013 12:44:18 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/astute/projs/Tomcat7.0.40/launch/webapps/ROOT
+五月 16, 2013 12:44:18 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/astute/projs/Tomcat7.0.40/launch/webapps/examples
+五月 16, 2013 12:44:18 上午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/astute/projs/Tomcat7.0.40/launch/webapps/docs
+五月 16, 2013 12:44:18 上午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+五月 16, 2013 12:44:18 上午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+五月 16, 2013 12:44:18 上午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 913 ms
